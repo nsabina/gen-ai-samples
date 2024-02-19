@@ -6,3 +6,4 @@ Collection of generative AI notebooks to demonstrate various concepts
 - Notebook runs in Google Colab. 
 - Manual PDF https://admin.owners.infinitiusa.com/content/manualsandguides/IPL_G_Coupe/2011/2011-Infiniti-IPL-G-Coupe.pdf 
    
+![alt text](https://github.com/nsabina/gen-ai-samples/blob/main/chat_to_manual.png?raw=true)
